@@ -8,7 +8,11 @@
 2. findMany = array of object
 3. findUnique -- return single object
 4. findUnique = return single object if exist, otherwise throw error
-
+5. update
+6. updateMany
+7. updateManyReturn
+8. delete
+9. deleteMany
 
 
 
